@@ -1,0 +1,22 @@
+/* app.css */
+
+
+.app__container {
+    width: 50%;
+}
+
+a {
+    text-decoration: none;
+}
+
+button,
+input,
+textarea {
+    background-color: transparent;
+    border: none;
+    outline: none;
+}
+
+img {
+    max-width: 100%;
+}

@@ -1,0 +1,58 @@
+
+  .contact__container {
+      grid-template-columns: 5fr 10fr;
+      align-items: center;
+      justify-content: center;
+  
+  }
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+
+ 
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+
+  
+  /* .button::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background-color: blueviolet;
+      transform: translateX(100%);
+      z-index: -1;
+      transition: all 0.3s ease-out;
+  } */
+  
